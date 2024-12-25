@@ -84,7 +84,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PaulojuniorAskDsk/PaulojuniorAskDsk/output/snake.svg" alt="Snake animation" />
-
-###
