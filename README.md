@@ -69,7 +69,5 @@ Meu nome e Paulo Handerson, mas para os intimos AskDsk, e na comunidade tech, **
 </div>
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/PaulojuniorAskDsk/PaulojuniorAskDsk/output/snake.svg" alt="Snake animation" />
 
